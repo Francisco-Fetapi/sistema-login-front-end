@@ -1,10 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: process.env.REACT_APP_URL,
+  baseURL: "https://sistemaloginfetapi.herokuapp.com/api",
 });
-
-console.log(process.env.REACT_APP_URL);
 
 api.interceptors.response.use(function (response) {
   if (response.data.token) {
