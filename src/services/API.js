@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://sistemaloginfetapi.herokuapp.com/api",
+  baseURL: "http://localhost:8000/api",
 });
 
 api.interceptors.response.use(function (response) {
