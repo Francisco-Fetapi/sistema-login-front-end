@@ -1,6 +1,13 @@
 # Sistema de Login (com JWT) - Front-end
 
-🚀 _Criado para fins de estudo_
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/sistema-login-front-end/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/sistema-login-front-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-front-end"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-front-end/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/sistema-login-front-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-front-end/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/sistema-login-front-end?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/sistema-login-front-end"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/sistema-login-front-end?style=plastic"></a>
+</p>
+
 
 Projeto criado para consolidar os conhecimentos em React na questão da _autenticação via JWT (JSON Web Token)_. No começo da minha jornada no mundo das SPA's eu fazia um monte de gambiarra para autenticar um usuário, uma delas era guardar o _"id"_ do usuario no _localStorage_ e enviar esse _"id"_ a cada requisição, mas isso não era nada seguro, depois de alguns meses aprendi sobre **JWT** e esse foi o primeiro sisteminha que criei para entendê-lo na prática.
 
