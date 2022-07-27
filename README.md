@@ -11,8 +11,7 @@
 
 Projeto criado para consolidar os conhecimentos em React na questão da _autenticação via JWT (JSON Web Token)_. No começo da minha jornada no mundo das SPA's eu fazia um monte de gambiarra para autenticar um usuário, uma delas era guardar o _"id"_ do usuario no _localStorage_ e enviar esse _"id"_ a cada requisição, mas isso não era nada seguro, depois de alguns meses aprendi sobre **JWT** e esse foi o primeiro sisteminha que criei para entendê-lo na prática.
 
-![sis-login](https://user-images.githubusercontent.com/74926014/180443283-cc1c00f9-17c4-4bcd-948f-4f73ea5e6fd1.gif)
-
+![sis-login](https://user-images.githubusercontent.com/74926014/181216211-6660cee6-bf97-40cb-8a30-d5bfc49c54aa.gif)
 
 
 Este projeto consome uma _API_ criada com `Laravel`. Siga os passos para rodar o _back-end localmente_ [clicando aqui](https://github.com/Francisco-Fetapi/sistema-login-jwt-back-end)
